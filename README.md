@@ -1,3 +1,63 @@
+<h1 align="center">MetaBlog</h1>
+
+<p align="center">
+  Projeto desenvolvido para a etapa de DESAFIO TÉCNICO, referente a vaga Trainee back-end na empresa Meta3.
+</p>
+
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+
+
+https://user-images.githubusercontent.com/84508964/213436131-661c6511-c1b4-46e2-9573-14e37dc1d4e3.mp4
+
+
+
+<br>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gus-boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img align="center" alt="Gus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gus-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />  
+  <img align="center" alt="Gus-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Gus-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+</div>
+
+## 💻 Projeto
+
+  Para o projeto foi passado as seguintes instruções. 
+  Desenvolva uma aplicação de blog simples seguindo as instruções abaixo:
+  #### BACKEND
+  1) Criar uma aplicação spring boot para gestão de posts de usuários;
+  2) Criar os endpoints necessários para criar, editar, listar e excluir um post;
+  3) Quer ser diferente e ainda ganhar pontos extras?
+  • Adicione aos seus endpoints um controle de autenticação e persistência em banco de
+  dados. Serão consideradas na avaliação as boas práticas de codificação e organização
+  de código.
+  #### FRONTEND
+  1) Construir uma interface que permita criar, listar, editar e excluir, posts;
+  2) Você pode utilizar a tecnologia que desejar: HTML + Javascript puro, Angular, React, entre
+  outras.
+  3) Quer ser diferente e ainda ganhar pontos extras?
+  • Para isso você pode adicionar à sua aplicação detalhes para demonstrar seus
+  conhecimentos na linguagem utilizada. Exemplo: adicionar paginação, filtros de
+  pesquisa e ordenação. Uma tela de login e um layout criativo também contam, use e
+  abuse da sua criatividade!
+
+## 🔖 Link
+
+Você pode visualizar o projeto através [DESSE LINK](https://meta3group-blog.vercel.app/). É recomendado abrir pelo navegador Chrome(é crucial também que o backend seja executado para o bom funcionamento da aplicação).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
