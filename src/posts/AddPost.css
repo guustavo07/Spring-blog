@@ -1,0 +1,13 @@
+h2{
+  color: #8DC046;
+}
+
+label{
+  color: #8DC046;
+}
+
+input.form-control{
+  border: 0;
+  border-bottom: 2px solid gray;
+  border-radius: 0;
+}
