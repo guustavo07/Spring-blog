@@ -12,11 +12,6 @@
 
 
 
-
-https://user-images.githubusercontent.com/84508964/213436131-661c6511-c1b4-46e2-9573-14e37dc1d4e3.mp4
-
-
-
 <br>
 
 ## 🚀 Tecnologias
