@@ -48,10 +48,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   pesquisa e ordenação. Uma tela de login e um layout criativo também contam, use e
   abuse da sua criatividade!
 
-## 🔖 Link
-
-Você pode visualizar o projeto através [DESSE LINK](https://meta3group-blog.vercel.app/). É recomendado abrir pelo navegador Chrome(é crucial também que o backend seja executado para o bom funcionamento da aplicação).
-
 
 # Getting Started with Create React App
 
